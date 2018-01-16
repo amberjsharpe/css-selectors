@@ -1,0 +1,65 @@
+header {
+    border: 1px solid #05204A;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color: #B497D6;
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    display: block;
+    color: #02020A;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.disabled {
+    color: gray;
+}
+
+a.disabled {
+    color: purple;
+}
+
+.active {
+    color: yellow;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#red-sis {
+    background-color: red;
+    color: white;
+}
+
+#blue-bro {
+    background-color: blue;
+    color: white;
+}
+.grandparent h4 {
+    border-radius: 25px;
+    border: 1px solid #05204A;
+}
+
+.promo {
+    font-weight: bold;
+    color: gold;
+}
+
+input {
+    height: 25px;
+}
